@@ -1,0 +1,8 @@
+prefix=/home/imalfa/catkin_ws/devel
+
+Name: my_empty_package
+Description: Description of my_empty_package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/imalfa/catkin_ws/devel/lib 
+Requires: 

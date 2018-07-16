@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_roboskel_hp_laptop__36791: 'http://roboskel-HP-laptop:36791/'}
+rosversion: '1.12.13
+
+  '
+run_id: 1ec7eb32-801e-11e8-bac5-543530ce6a80
